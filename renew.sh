@@ -1,5 +1,5 @@
 #!/bin/bash
 
-watch -n 5 ./syncme.sh 
+watch -n 60 ./syncme.sh 
 
 exit
