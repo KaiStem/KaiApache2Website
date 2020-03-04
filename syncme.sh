@@ -1,5 +1,5 @@
 #!/bin/bash
 
-git pull master
+git pull origin master
 
 exit
